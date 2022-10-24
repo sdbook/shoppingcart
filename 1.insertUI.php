@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>input form</title>
 </head>
-<body>
+<body><div>from 2cart</div>
 <p>Add new Job!! </p>
 <hr />
 
